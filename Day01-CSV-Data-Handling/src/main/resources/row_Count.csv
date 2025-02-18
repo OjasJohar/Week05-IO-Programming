@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,Stock
+201,Laptop,Electronics,75000,15
+202,Smartphone,Electronics,45000,30
+203,Table,Home Decor,8000,12
+204,Chair,Furniture,5000,25
+205,Refrigerator,Appliances,55000,8
+206,Washing Machine,Appliances,30000,10
+207,Headphones,Electronics,3000,50
+208,Microwave,Appliances,12000,5
+209,Shoes,Fashion,2500,40
+210,Backpack,Accessories,2000,20
