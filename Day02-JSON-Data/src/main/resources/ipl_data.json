@@ -1,0 +1,25 @@
+[
+  {
+    "match_id": 101,
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings",
+    "score": {
+      "Mumbai Indians": 178,
+      "Chennai Super Kings": 182
+    },
+    "winner": "Chennai Super Kings",
+    "player_of_match": "MS Dhoni"
+  },
+  {
+    "match_id": 102,
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Delhi Capitals",
+    "score": {
+      "Royal Challengers Bangalore": 200,
+      "Delhi Capitals": 190
+    },
+    "winner": "Royal Challengers Bangalore",
+    "player_of_match": "Virat Kohli"
+  }
+]
+

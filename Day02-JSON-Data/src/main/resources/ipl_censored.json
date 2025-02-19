@@ -1,0 +1,21 @@
+[ {
+  "match_id" : 101,
+  "team1" : "Mumbai ***",
+  "team2" : "Chennai ***",
+  "score" : {
+    "Mumbai Indians" : 178,
+    "Chennai Super Kings" : 182
+  },
+  "winner" : "Chennai ***",
+  "player_of_match" : "REDACTED"
+}, {
+  "match_id" : 102,
+  "team1" : "Royal ***",
+  "team2" : "Delhi ***",
+  "score" : {
+    "Royal Challengers Bangalore" : 200,
+    "Delhi Capitals" : 190
+  },
+  "winner" : "Royal ***",
+  "player_of_match" : "REDACTED"
+} ]
